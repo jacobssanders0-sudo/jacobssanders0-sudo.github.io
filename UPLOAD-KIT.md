@@ -8,14 +8,14 @@ Work in **your own browser** (Amazon does not allow Muse inside KDP). If KDP int
 
 ## Step 0 — Download the three files first
 
-The download links below **expire Friday, November 27, 2026 at about 4:35 p.m. EST**, so download all three now, before you start. (Anyone with a link can open it — don't post the links publicly. If a link has expired, just tell Muse and fresh ones will be issued in a minute; the master files are kept safe.)
+The download links below **expire Friday, November 27, 2026 at about 4:44 p.m. EST**, so download all three now, before you start. (Anyone with a link can open it — don't post the links publicly. If a link has expired, just tell Muse and fresh ones will be issued in a minute; the master files are kept safe.)
 
-1. **Interior — English edition (book.pdf, 5.2 MB):**
-   https://muse.ai/files/1413644805164111/4642653492723379/lse32zudhlhvxvzepag1tg79/book.pdf
-2. **Interior — Bilingual edition (book-bilingual.pdf, 5.2 MB):**
-   https://muse.ai/files/1413644805164111/1833583724353174/4anl2wc4xhrqebxcq5xpmstn/book-bilingual.pdf
+1. **Interior — English edition (book.pdf, 6.5 MB, 26 pages):**
+   https://muse.ai/files/1413644805164111/2400858954003284/sg6ubgmin4xh060crh90iojm/book.pdf
+2. **Interior — Bilingual edition (book-bilingual.pdf, 6.5 MB, 26 pages):**
+   https://muse.ai/files/1413644805164111/1453158483695520/is2xq77lokf7t5jyhx0s5fzp/book-bilingual.pdf
 3. **Cover artwork (cover.jpg):**
-   https://muse.ai/files/1413644805164111/1624644055449322/u614c709iizxt16wro1nwbzb/cover.jpg
+   https://muse.ai/files/1413644805164111/1635863971649042/7hr4j45qgwgqtk4jlrjhw4kv/cover.jpg
 
 Save them somewhere you can find them (your Downloads folder is fine).
 
@@ -85,8 +85,8 @@ Save them somewhere you can find them (your Downloads folder is fine).
     - **Images: AI-generated** ✔
     (This declaration goes to Amazon only; nothing is printed in the book.)
 22. Click **Launch Previewer** and flip through the pages. Everything should look like the PDF you downloaded.
-    - ⚠️ **Page-count heads-up:** KDP paperbacks normally require at least 24 pages, and Pip has 14. If KDP stops you here with a page-count error, **don't fight it and don't change any sizes** — just tell Muse exactly what the error says. The fix (adding coloring/activity pages and reissuing the file) is Muse's job, and the Kindle edition below has no such minimum.
-23. Click **Save and Continue** (if the page-count error blocks you, click **Save as Draft** instead and tell Muse).
+    - **Page count: confirmed 26 pages** — the interior now includes a title page, a dedication page, a "Words to Know" glossary, counting and maze activity pages, two coloring pages, and a draw-your-own page around the original story, so it clears KDP's 24-page paperback minimum with room to spare.
+23. Click **Save and Continue**.
 
 ### Page 3 of the form — "Paperback Rights & Pricing"
 
@@ -145,7 +145,7 @@ Same clicks as Book 1. Go back to the **Bookshelf → + Create → Paperback**, 
   Pip is afraid of the dark — and he cannot glow. Pipo le teme a la oscuridad — y no puede brillar. But when a friend is lost one night, Pip takes a deep breath… and tries. A gentle bilingual read-aloud about courage and helping a friend, for ages 3–6. / Un cuento bilingüe y tierno sobre la valentía y la amistad, para niños de 3 a 6 años.
   ```
 - **AI-generated content disclosure:** answer **Yes** and check **Text**, **Images**, and **Translation** (the Spanish text was AI-translated — KDP counts that too).
-- **Previewer:** flip through; the same 24-page ⚠️ heads-up from Book 1, step 22 applies. → **Save and Continue** (or Save as Draft + tell Muse).
+- **Previewer:** flip through; this interior is also a **confirmed 26 pages**, above the 24-page minimum. → **Save and Continue**.
 
 **Rights & Pricing page**
 - All territories · Amazon.com · **$9.99** → **Publish Your Paperback Book**.
@@ -154,7 +154,7 @@ Same clicks as Book 1. Go back to the **Bookshelf → + Create → Paperback**, 
 
 ## Optional, later — the Kindle edition
 
-Skip this on upload day unless you feel like it; it can be added any time from the Bookshelf ("Create Kindle edition" next to each paperback). The Kindle edition has **no 24-page minimum**, so it is also the guaranteed fallback if the paperback page-count rule blocks us. If you create it: same titles, descriptions, keywords, categories, and AI disclosure as above, and price it **$2.99–$4.99** (inside the 70% royalty band — $3.99 is the sweet spot).
+Skip this on upload day unless you feel like it; it can be added any time from the Bookshelf ("Create Kindle edition" next to each paperback). The Kindle edition has **no page-count minimum** (the paperbacks are 26 pages now, so the minimum no longer binds either format). If you create it: same titles, descriptions, keywords, categories, and AI disclosure as above, and price it **$2.99–$4.99** (inside the 70% royalty band — $3.99 is the sweet spot).
 
 ---
 
